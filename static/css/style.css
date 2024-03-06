@@ -1,0 +1,26 @@
+/* login */
+.login--wrapper {
+  display: flex;
+  align-items: center;
+  height: 80vh;
+  justify-content: center;
+}
+.form {
+  width: 500px;
+}
+.abcd {
+  width: 480px;
+}
+a {
+  text-decoration: none;
+}
+
+/* gallery */
+.image-thumbail {
+  height: 200px;
+  object-fit: cover;
+}
+.list-group-item a {
+  text-decoration: none;
+  color: black;
+}
